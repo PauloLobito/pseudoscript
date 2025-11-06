@@ -1,3 +1,4 @@
+Ola tudo bem!
 # PseudoScript: Uma Linguagem de Programação para quem quer aprender lógica
 
 O PseudoScript é projetado para ser um ponto de partida para iniciantes. Após dominar os conceitos básicos, os aspirantes podem fazer uma transição mais fácil para a programação real em JavaScript ou Python. Ele fornece uma base sólida em lógica, estruturas de controlo e resolução de problemas sem sobrecarregar os iniciantes com uma sintaxe complexa.
